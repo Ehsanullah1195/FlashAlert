@@ -1,0 +1,80 @@
+
+<resources>
+    <string name="app_name">Linterna</string>
+    <string name="navigation_drawer_open">Abrir menú de navegación</string>
+    <string name="navigation_drawer_close">Cerrar menú de navegación</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Encabezado de navegación</string>
+    <string name="action_settings">Configuraciones</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu">Galería</string>
+    <string name="menu_slideshow">Presentación de diapositivas</string>
+    <string name="setting">Configuración</string>
+    <string name="installed_apps">Aplicaciones instaladas</string>
+    <string name="flash_light">Linterna</string>
+    <string name="home">Inicio</string>
+    <string name="incoming_call">Llamada entrante</string>
+    <string name="on">ENCENDIDO</string>
+    <string name="select_app">Seleccionar aplicación</string>
+    <string name="test">PRUEBA</string>
+    <string name="_50_ms">10ms</string>
+    <string name="notification_and_sms">Notificaciones y SMS</string>
+    <string name="flashing_type">Tipo de flash</string>
+    <string name="flash_speed">Velocidad del flash</string>
+    <string name="shortcut">Atajo</string>
+    <string name="camera">Cámara</string>
+    <string name="screen">Pantalla</string>
+    <string name="mode">Modo</string>
+    <string name="do_not_disturb">No molestar</string>
+    <string name="turn_off_in_this_time">Apagar en este horario</string>
+    <string name="from">Desde</string>
+    <string name="to">Hasta</string>
+    <string name="battery_save">Ahorro de batería</string>
+    <string name="turn_off_if_battery_below">Apagar si la batería está por debajo de</string>
+    <string name="disable_when_using_phone">Deshabilitar al usar el teléfono</string>
+    <string name="enable_flash_in_alert_mode">Habilitar flash en modo alerta</string>
+    <string name="normal_mode">✔ Modo normal</string>
+    <string name="vibrate_mode">✔ Modo vibración</string>
+    <string name="silent_mode">✔ Modo silencioso</string>
+    <string name="apply">Aplicar</string>
+    <string name="language">Idioma</string>
+    <string name="english">Inglés</string>
+    <string name="next">Siguiente</string> <!-- Spanish (es) -->
+
+    <string name="skip">Saltar</string> <!-- Spanish (es) -->
+
+    <string name="get_started">Comenzar</string> <!-- Spanish (es) -->
+    <!-- Spanish (es) -->
+    <string name="are_you_sure_you_want_to_exit_this_app">¿Estás seguro de que quieres salir de esta aplicación?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="Privacy_policy">Política de privacidad</string>
+    <string name="share_app">Compartir aplicación</string>
+    <string name="feedback">Retroalimentación</string>
+    <string name="More_Apps">Más aplicaciones</string>
+    <string name="Exit_app">Salir de la aplicación</string>
+    <string name="moreapp">Más aplicaciones</string>
+    <string name="moreapp_des">Serás redirigido a nuestra cuenta de Play Store.\n ¿Estás seguro?</string>
+    <string name="redirect">Redirigir</string>
+    <string name="cancel">Cancelar</string>
+    <string name="feedback_des">Serás redirigido a nuestra cuenta de Play Store.\n ¿Estás seguro?</string>
+    <string name="files">Archivos</string>
+    <string name="rate_us_message">Por favor, deja tu comentario sobre la aplicación. Consideraremos tu opinión seriamente.</string>
+    <string name="privacy_policy">Política de privacidad</string>
+    <string name="privacypolicy_Des">Serás redirigido al navegador para abrir la política de privacidad. ¿Estás seguro?</string>
+    <string name="share">Compartir con amigos</string>
+    <string name="shr">Compartir</string>
+    <string name="share_des">El enlace de invitación a la aplicación se compartirá con tu amigo. Gracias por gustarte nuestra aplicación. ¿Estás seguro?</string>
+    <string name="share_app_message">Serás redirigido a nuestra cuenta de Play Store.\n ¿Estás seguro?</string>
+    <string name="incoming_call_or_notifications">Eingehender Anruf oder Benachrichtigungen</string>
+    <string name="flash_alert">Flash-Alarm</string>
+    <string name="flashing_to_music">Blinken zur Musik</string>
+    <string name="light_up_your_party">Beleuchte deine Party</string>
+    <string name="find_anything_in_dark">Finde alles im Dunkeln</string>
+    <string name="continuous">Kontinuierlich</string>
+    <string name="rhythm">Rhythmus</string>
+
+    <string name="screen_light">Luz de pantalla</string>
+</resources>

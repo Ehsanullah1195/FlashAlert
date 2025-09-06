@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Exit_app">Sair do Aplicativo</string>
+    <string name="More_Apps">Mais Aplicativos</string>
+    <string name="Privacy_policy">Política de Privacidade</string>
+    <string name="_50_ms">10 ms</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecionar um app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Pesquisar…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="action_settings">Configurações</string>
+    <string name="app_name">Lanterna</string>
+    <string name="apply">Aplicar</string>
+    <string name="are_you_sure_you_want_to_exit_this_app">Tem certeza de que deseja sair deste aplicativo?</string>
+    <string name="battery_save">Economia de bateria</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Atender"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Vídeo"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Recusar"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Desligar"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Alguém está ligando"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Chamada em andamento"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Filtrando uma ligação recebida"</string>
+    <string name="camera">Câmera</string>
+    <string name="cancel">Cancelar</string>
+    <string name="continuous">Contínuo</string>
+    <string name="disable_when_using_phone">Desativar ao usar o telefone</string>
+    <string name="do_not_disturb">Não perturbe</string>
+    <string name="enable_flash_in_alert_mode">Ativar Flash no Modo de Alerta</string>
+    <string name="english">Inglês</string>
+    <string name="feedback">Feedback</string>
+    <string name="feedback_des">Você será redirecionado para nossa conta na Play Store.\n Tem certeza?</string>
+    <string name="files">Arquivos</string>
+    <string name="find_anything_in_dark">Encontre qualquer coisa no escuro</string>
+    <string name="flash_alert">Alerta de Flash</string>
+    <string name="flash_light">Lanterna</string>
+    <string name="flash_speed">Velocidade do flash</string>
+    <string name="flashing_to_music">Piscando ao ritmo da música</string>
+    <string name="flashing_type">Tipo de flash</string>
+    <string name="from">De</string>
+    <string name="get_started">Começar</string>
+    <string name="home">Início</string>
+    <string name="incoming_call">Chamada recebida</string>
+    <string name="incoming_call_or_notifications">Chamada ou notificações recebidas</string>
+    <string name="installed_apps">Aplicativos instalados</string>
+    <string name="language">Idioma</string>
+    <string name="light_up_your_party">Ilumine sua festa</string>
+    <string name="menu">Galeria</string>
+    <string name="menu_home">Início</string>
+    <string name="menu_slideshow">Apresentação</string>
+    <string name="mode">Modo</string>
+    <string name="moreapp">Mais Aplicativos</string>
+    <string name="moreapp_des">Você será redirecionado para nossa conta na Play Store.\n Tem certeza?</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Navegar para cima"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Abrir gaveta de navegação"</string>
+    <string name="nav_header_desc">Cabeçalho de navegação</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Fechar menu de navegação</string>
+    <string name="navigation_drawer_open">Abrir menu de navegação</string>
+    <string name="next">Próximo</string>
+    <string name="no">Não</string>
+    <string name="normal_mode">✔ Modo Normal</string>
+    <string name="notification_and_sms">Notificações e SMS</string>
+    <string name="on">Ligado</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="privacypolicy_Des">Você será redirecionado para o navegador para abrir a política de privacidade. Tem certeza?</string>
+    <string name="rate_us_message">Por favor, deixe seu feedback sobre o aplicativo. Levaremos sua opinião a sério.</string>
+    <string name="redirect">Redirecionar</string>
+    <string name="rhythm">Ritmo</string>
+    <string name="screen">Tela</string>
+    <string name="screen_light">Luz da tela</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Pesquisar"</string>
+    <string name="select_app">Selecionar aplicativo</string>
+    <string name="setting">Configuração</string>
+    <string name="share">Compartilhar com Amigos</string>
+    <string name="share_app">Compartilhar Aplicativo</string>
+    <string name="share_app_message">Você será redirecionado para nossa conta na Play Store.\n Tem certeza?</string>
+    <string name="share_des">O link de convite do aplicativo será compartilhado com seu amigo. Obrigado por gostar do nosso aplicativo. Tem certeza?</string>
+    <string name="shortcut">Atalho</string>
+    <string name="shr">Compartilhar</string>
+    <string name="silent_mode">✔ Modo Silencioso</string>
+    <string name="skip">Pular</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="test">TESTE</string>
+    <string name="to">Até</string>
+    <string name="turn_off_if_battery_below">Desligar se a bateria estiver abaixo de</string>
+    <string name="turn_off_in_this_time">Desligar neste horário</string>
+    <string name="vibrate_mode">✔ Modo Vibração</string>
+    <string name="yes">Sim</string>
+</resources>

@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/activity_setting_language.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/activity_setting_language.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/fragment_flashlight.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/fragment_flashlight.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/item_installed_app.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/item_installed_app.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/item_langauge_card.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/item_langauge_card.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/message_dialog.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/message_dialog.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/onboarding_screen1.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/onboarding_screen1.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/nav_header_main.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/fragment_home.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/fragment_setting.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/content_main.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/activity_langauge.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/activity_langauge.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/fragment_screen_light.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/fragment_screen_light.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/onboarding_screen2.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/onboarding_screen2.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/onboardin_screen3.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/onboardin_screen3.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/bottom_sheet_flash_type.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/bottom_sheet_flash_type.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/fragment_installed_fragment.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/fragment_installed_fragment.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/activity_splash_screen.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/app_bar_main.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/activity_on_board.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/activity_on_board.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-mergeDebugResources-4:/layout/activity_installed_app.xml",
+        "source": "com.daarba.flashalert.app-main-7:/layout/activity_installed_app.xml"
+    }
+]

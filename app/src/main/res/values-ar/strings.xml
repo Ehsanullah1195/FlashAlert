@@ -1,0 +1,80 @@
+<resources>
+        <string name="app_name">ضوء الفلاش</string>
+        <string name="navigation_drawer_open">افتح قائمة التنقل</string>
+        <string name="navigation_drawer_close">أغلق قائمة التنقل</string>
+        <string name="nav_header_title">أندرويد ستوديو</string>
+        <string name="nav_header_subtitle">android.studio@android.com</string>
+        <string name="nav_header_desc">رأس التنقل</string>
+        <string name="action_settings">الإعدادات</string>
+
+        <string name="menu_home">الرئيسية</string>
+        <string name="menu">المعرض</string>
+        <string name="menu_slideshow">عرض الشرائح</string>
+        <string name="setting">الإعدادات</string>
+        <string name="installed_apps">التطبيقات المثبتة</string>
+        <string name="flash_light">ضوء الفلاش</string>
+        <string name="home">الرئيسية</string>
+        <string name="incoming_call">مكالمة واردة</string>
+        <string name="on">تشغيل</string>
+        <string name="select_app">اختر التطبيق</string>
+        <string name="test">اختبار</string>
+        <string name="_50_ms">10 مللي ثانية</string>
+        <string name="notification_and_sms">الإشعارات والرسائل القصيرة</string>
+        <string name="flashing_type">نوع الوميض</string>
+        <string name="flash_speed">سرعة الفلاش</string>
+        <string name="shortcut">اختصار</string>
+        <string name="camera">الكاميرا</string>
+        <string name="screen">الشاشة</string>
+        <string name="mode">الوضع</string>
+        <string name="do_not_disturb">عدم الإزعاج</string>
+        <string name="turn_off_in_this_time">إيقاف التشغيل في هذا الوقت</string>
+        <string name="from">من</string>
+        <string name="to">إلى</string>
+        <string name="battery_save">توفير البطارية</string>
+        <string name="turn_off_if_battery_below">إيقاف التشغيل إذا كانت البطارية أقل من</string>
+        <string name="disable_when_using_phone">تعطيل عند استخدام الهاتف</string>
+        <string name="enable_flash_in_alert_mode">تمكين الفلاش في وضع التنبيه</string>
+        <string name="normal_mode">✔ الوضع العادي</string>
+        <string name="vibrate_mode">✔ وضع الاهتزاز</string>
+        <string name="silent_mode">✔ الوضع الصامت</string>
+        <string name="apply">تطبيق</string>
+        <string name="language">اللغة</string>
+        <string name="english">الإنجليزية</string>
+
+        <string name="next">التالي</string> <!-- Arabic (ar) -->
+        <string name="skip">تخطي</string> <!-- Arabic (ar) -->
+
+        <string name="get_started">ابدأ</string> <!-- Arabic (ar) -->
+        <string name="are_you_sure_you_want_to_exit_this_app">هل أنت متأكد أنك تريد الخروج من هذا التطبيق؟</string>
+        <string name="yes">نعم</string>
+        <string name="no">لا</string>
+        <string name="Privacy_policy">سياسة الخصوصية</string>
+        <string name="share_app">مشاركة التطبيق</string>
+        <string name="feedback">ملاحظات</string>
+        <string name="More_Apps">المزيد من التطبيقات</string>
+        <string name="Exit_app">الخروج من التطبيق</string>
+        <string name="moreapp">المزيد من التطبيقات</string>
+        <string name="moreapp_des">سيتم توجيهك إلى حسابنا في متجر Play.\n هل أنت متأكد؟</string>
+        <string name="redirect">إعادة التوجيه</string>
+        <string name="cancel">إلغاء</string>
+        <string name="feedback_des">سيتم توجيهك إلى حسابنا في متجر Play.\n هل أنت متأكد؟</string>
+        <string name="files">الملفات</string>
+        <string name="rate_us_message">يرجى تقديم ملاحظاتك حول التطبيق. سنأخذ رأيك على محمل الجد.</string>
+        <string name="privacy_policy">سياسة الخصوصية</string>
+        <string name="privacypolicy_Des">سيتم توجيهك إلى المتصفح لفتح سياسة الخصوصية. هل أنت متأكد؟</string>
+        <string name="share">مشاركة مع الأصدقاء</string>
+                <string name="shr">مشاركة</string>
+                <string name="share_des">سيتم مشاركة رابط دعوة التطبيق مع صديقك. شكرًا لك على إعجابك بتطبيقنا. هل أنت متأكد؟</string>
+                <string name="share_app_message">سيتم توجيهك إلى حسابنا في متجر Play.\n هل أنت متأكد؟</string>
+        <!-- Arabic Translations -->
+        <string name="incoming_call_or_notifications">المكالمات الواردة أو الإشعارات</string>
+        <string name="flash_alert">تنبيه الفلاش</string>
+        <string name="flashing_to_music">الوميض على الموسيقى</string>
+        <string name="light_up_your_party">أضيء حفلتك</string>
+        <string name="find_anything_in_dark">ابحث عن أي شيء في الظلام</string>
+        <string name="continuous">مستمر</string>
+        <string name="rhythm">إيقاع</string>
+        <string name="screen_light">ضوء الشاشة</string>
+
+
+</resources>

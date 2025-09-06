@@ -1,0 +1,490 @@
+[
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_ic_next_arrow.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/ic_next_arrow.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_icone_back.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/icone_back.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_shartcut_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/shartcut_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_item_installed_app.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/item_installed_app.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_onboardin_screen3.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/onboardin_screen3.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_content_main.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_cross_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/cross_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_battery_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/battery_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_iv_check.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/iv_check.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_onboarding_screen1.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/onboarding_screen1.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_input_background.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/input_background.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_ic_menu_camera.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_ic_menu_slideshow.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_img.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/img.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_right_bottom_round.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/right_bottom_round.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_feedback_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/feedback_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.daarba.flashalert.app-main-7:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_item_langauge_card.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/item_langauge_card.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_fragment_screen_light.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/fragment_screen_light.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_german.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/german.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_ic_share.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/ic_share.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_mode_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/mode_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_pic1_bckgrnd.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/pic1_bckgrnd.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_onboarding_screen2.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/onboarding_screen2.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.daarba.flashalert.app-main-7:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_bottom_sheet_flash_type.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/bottom_sheet_flash_type.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_bottom_rounded.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/bottom_rounded.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_ic_more_apps.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/ic_more_apps.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.daarba.flashalert.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_flash_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/flash_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_onboard_screen3_background.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/onboard_screen3_background.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_arabic.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/arabic.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_notification_icone.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/notification_icone.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_hindi.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/hindi.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.daarba.flashalert.app-main-7:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_second_phone1.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/second_phone1.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_ok_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/ok_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.daarba.flashalert.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_activity_on_board.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/activity_on_board.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_message_dialog.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/message_dialog.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/xml_backup_rules.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/menu_bottom_nav.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/menu/bottom_nav.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.daarba.flashalert.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.daarba.flashalert.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_img_4.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/img_4.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_main_flash_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/main_flash_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_language_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/language_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.daarba.flashalert.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_spanish_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/spanish_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_green_background.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/green_background.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_progress_bar_style.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/progress_bar_style.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_activity_langauge.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/activity_langauge.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_card.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/card.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_ic_privacy_policy.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/ic_privacy_policy.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_img_1.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/img_1.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.daarba.flashalert.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_top_phone.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/top_phone.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_disable_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/disable_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/menu_activity_main_drawer.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.daarba.flashalert.app-main-7:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_splash_icone.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/splash_icone.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_fragment_setting.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_circle_background.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_icone_ok.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/icone_ok.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_urdu.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/urdu.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_french.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/french.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_side_nav_bar.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_sos_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/sos_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_speed_icone.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/speed_icone.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_call_icone.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/call_icone.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_bg_bottom_sheet.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/bg_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_left_bottom_round.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/left_bottom_round.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_second_phone.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/second_phone.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_dontdsturb_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/dontdsturb_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_ic_menu_gallery.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_setting_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/setting_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_contact_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/contact_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_privacr_policy_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/privacr_policy_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/color_card_selector.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/color/card_selector.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.daarba.flashalert.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_fragment_flashlight.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/fragment_flashlight.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_app_bar_main.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_exit_app_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/exit_app_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_screen_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/screen_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_activity_installed_app.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/activity_installed_app.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_onboard1_background.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/onboard1_background.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_portogal.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/portogal.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_activity_splash_screen.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/navigation_mobile_navigation.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_custom_button.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/custom_button.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_camera_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/camera_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_home_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/home_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_ic_rating.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/ic_rating.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_flash_icone2.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/flash_icone2.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/menu_main.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/menu/main.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_card2_backhround.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/card2_backhround.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_share_app_icone.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/share_app_icone.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/color_bottom_nav_item_color.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/color/bottom_nav_item_color.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_fragment_home.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_card_background.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/card_background.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_activity_main.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.daarba.flashalert.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_main.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/main.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/font_poppin_regular.ttf.flat",
+        "source": "com.daarba.flashalert.app-main-7:/font/poppin_regular.ttf"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_circle.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/circle.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_phone_icone.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/phone_icone.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_card_background_selector.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/card_background_selector.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_activity_setting_language.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/activity_setting_language.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_first_onboard_pic1.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/first_onboard_pic1.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/font_poppins_semibold.ttf.flat",
+        "source": "com.daarba.flashalert.app-main-7:/font/poppins_semibold.ttf"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_fragment_installed_fragment.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/fragment_installed_fragment.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_english.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/english.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/drawable_ic_apply.png.flat",
+        "source": "com.daarba.flashalert.app-main-7:/drawable/ic_apply.png"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.daarba.flashalert.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.daarba.flashalert.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.daarba.flashalert.app-main-7:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/layout_nav_header_main.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.daarba.flashalert.app-debug-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.daarba.flashalert.app-main-7:/xml/data_extraction_rules.xml"
+    }
+]

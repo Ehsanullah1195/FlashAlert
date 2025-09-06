@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">649666075250</string>
+    <string name="google_api_key" translatable="false">AIzaSyDQ4cQuLr4RTXMr4h5Lh96bYJhTu-F3p9M</string>
+    <string name="google_app_id" translatable="false">1:649666075250:android:df627137aceb90f37b00eb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDQ4cQuLr4RTXMr4h5Lh96bYJhTu-F3p9M</string>
+    <string name="google_storage_bucket" translatable="false">flashlight-flash-alert-and-sms.firebasestorage.app</string>
+    <string name="project_id" translatable="false">flashlight-flash-alert-and-sms</string>
+</resources>

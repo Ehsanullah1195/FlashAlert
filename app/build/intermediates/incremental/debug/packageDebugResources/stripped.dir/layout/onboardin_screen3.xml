@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@drawable/onboard1_background">
+
+    <FrameLayout
+        android:id="@+id/flashlight_container"
+        android:layout_width="220dp"
+        android:layout_height="220dp"
+        android:background="@drawable/circle"
+        android:gravity="center"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="100dp">
+
+        <!-- Phone Image -->
+        <ImageView
+            android:id="@+id/iv_phone"
+            android:layout_width="201dp"
+            android:layout_height="209dp"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/phone_icone" />
+
+        <!-- Flashlight Effect (Overlay) -->
+        <ImageView
+            android:id="@+id/iv_flashlight"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/top_phone"
+            android:scaleType="fitCenter"
+            android:layout_marginStart="@dimen/_27sdp"
+            android:layout_marginBottom="@dimen/_20sdp"/> <!-- Initially Hidden -->
+    </FrameLayout>
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/flashing_to_music"
+        android:textSize="22sp"
+        android:fontFamily="@font/poppin_regular"
+        android:gravity="center"
+        app:layout_constraintTop_toBottomOf="@id/flashlight_container"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp"/>
+
+    <!-- Subtitle -->
+    <TextView
+        android:id="@+id/tv_subtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/light_up_your_party"
+        android:textSize="16sp"
+        android:fontFamily="@font/poppin_regular"
+        android:gravity="center"
+        app:layout_constraintTop_toBottomOf="@id/tv_title"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="8dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

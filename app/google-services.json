@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649666075250",
+    "project_id": "flashlight-flash-alert-and-sms",
+    "storage_bucket": "flashlight-flash-alert-and-sms.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649666075250:android:df627137aceb90f37b00eb",
+        "android_client_info": {
+          "package_name": "com.daarba.light.flashlight.flashalert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ4cQuLr4RTXMr4h5Lh96bYJhTu-F3p9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

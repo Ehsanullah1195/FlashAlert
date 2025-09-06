@@ -1,0 +1,13 @@
+package com.daarba.flashalert
+
+import android.content.Context
+import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import com.daarba.flashalert.helper.LocaleHelper
+
+open class BaseActivity: AppCompatActivity() {
+
+    override fun attachBaseContext(newBase: Context) {
+        super.attachBaseContext(LocaleHelper.wrap(newBase))
+    }
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFFF1493</color>
+    <color name="purple_500">#FFFF1493</color>
+    <color name="purple_700">#FFFF1493</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#0d48a1</color>
+    <color name="gray">#8A8A8A</color>
+    <color name="light_yellow">#CDCB63</color>
+    <color name="gnt_red">#FF0000</color>
+    <color name="lighter_gray">#B0B0B0</color>
+    <color name="holo_orange_light">#ffffbb33</color>
+    <color name="orange">#e35500</color>
+    <color name="saffron">#FFC107</color>
+    <color name="my_transparent_color">#00000000</color>
+    <color name="divider_color">#E0E0E0</color>
+    <color name="icon_color">#FF6200EE</color>
+    <color name="primary_color">#6200EE</color>
+    <color name="green">#4CAF50</color>
+    <color name="text_yellow">#E4AD06</color>
+    <color name="colorCyan">#00FFFF</color>
+    <color name="colorPink">#FF1493</color>
+
+
+    <color name="circle_bg_color">#B1B0B0</color>
+    <color name="line_color">#B1B0B0</color>
+    <color name="tool_bar_bg_color">#C7C6C6</color>
+
+    <color name="active_color">#000000</color>
+    <color name="in_active_color">#898989</color>
+
+
+    <color name="theme_color">#FFFFFF</color>
+    <color name="alternate_theme">#000000</color>
+
+</resources>

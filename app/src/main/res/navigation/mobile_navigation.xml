@@ -1,0 +1,55 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/Home">
+
+    <fragment
+        android:id="@+id/Home"
+        android:name="com.daarba.flashalert.ui.fragments.home.HomeFragment"
+        android:label="@string/home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_Home_to_Moreapps"
+            app:destination="@id/Moreapps" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/Flash_light"
+        android:name="com.daarba.flashalert.ui.fragments.light.FlashLightFragment"
+        android:label="@string/flash_light"
+        tools:layout="@layout/fragment_flashlight" >
+        <action
+            android:id="@+id/action_Flash_light_to_screenlight"
+            app:destination="@id/screenlight" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/Setting"
+        android:name="com.daarba.flashalert.ui.fragments.setting.SettingFragment"
+        android:label="@string/setting"
+        tools:layout="@layout/fragment_setting" >
+        <action
+            android:id="@+id/action_Setting_to_language"
+            app:destination="@id/language" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/language"
+        android:name="com.daarba.flashalert.ui.fragments.setting.LanguageFragment"
+        android:label="@string/language"
+        tools:layout="@layout/activity_setting_language" />
+
+    <fragment
+        android:id="@+id/Moreapps"
+        android:name="com.daarba.flashalert.ui.fragments.InstalledAppsFragment"
+        android:label="@string/installed_apps"
+        tools:layout="@layout/fragment_installed_fragment" />
+
+
+    <fragment
+        android:id="@+id/screenlight"
+        android:name="com.daarba.flashalert.ui.fragments.ScreenLightFragment"
+        android:label="@string/screen_light"
+        tools:layout="@layout/fragment_screen_light" />
+</navigation>

@@ -1,0 +1,81 @@
+
+<resources>
+    <string name="app_name">Lampe de poche</string>
+    <string name="navigation_drawer_open">Ouvrir le menu</string>
+    <string name="navigation_drawer_close">Fermer le menu</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">En-tête de navigation</string>
+    <string name="action_settings">Paramètres</string>
+
+    <string name="menu_home">Accueil</string>
+    <string name="menu">Galerie</string>
+    <string name="menu_slideshow">Diaporama</string>
+    <string name="setting">Paramètres</string>
+    <string name="installed_apps">Applications installées</string>
+    <string name="flash_light">Lampe de poche</string>
+    <string name="home">Accueil</string>
+    <string name="incoming_call">Appel entrant</string>
+    <string name="on">Activé</string>
+    <string name="select_app">Sélectionner une application</string>
+    <string name="test">TEST</string>
+    <string name="_50_ms">10 ms</string>
+    <string name="notification_and_sms">Notifications et SMS</string>
+    <string name="flashing_type">Type de flash</string>
+    <string name="flash_speed">Vitesse du flash</string>
+
+    <string name="shortcut">Raccourci</string>
+    <string name="camera">Caméra</string>
+    <string name="screen">Écran</string>
+    <string name="mode">Mode</string>
+    <string name="do_not_disturb">Ne pas déranger</string>
+    <string name="turn_off_in_this_time">Éteindre à cette heure</string>
+    <string name="from">De</string>
+    <string name="to">À</string>
+    <string name="battery_save">Économie de batterie</string>
+    <string name="turn_off_if_battery_below">Éteindre si batterie inférieure à</string>
+    <string name="disable_when_using_phone">Désactiver en utilisant le téléphone</string>
+    <string name="enable_flash_in_alert_mode">Activer le flash en mode alerte</string>
+    <string name="normal_mode">✔ Mode normal</string>
+    <string name="vibrate_mode">✔ Mode vibreur</string>
+    <string name="silent_mode">✔ Mode silencieux</string>
+    <string name="apply">Appliquer</string>
+    <string name="language">Langue</string>
+    <string name="english">Anglais</string>
+
+    <string name="skip">Passer</string> <!-- French (fr) -->
+
+    <string name="get_started">Commencer</string> <!-- French (fr) -->
+
+    <string name="next">Suivant</string> <!-- French (fr) -->
+    <string name="are_you_sure_you_want_to_exit_this_app">Êtes-vous sûr de vouloir quitter cette application ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="Privacy_policy">Politique de confidentialité</string>
+    <string name="share_app">Partager application</string>
+    <string name="feedback">Retour information</string>
+    <string name="More_Apps">Plus applications</string>
+    <string name="Exit_app">Quitter application</string>
+    <string name="moreapp">Plus applications</string>
+    <string name="moreapp_des">Vous serez redirigé vers notre compte Play Store.\n Êtes-vous sûr ?</string>
+    <string name="redirect">Rediriger</string>
+    <string name="cancel">Annuler</string>
+    <string name="feedback_des">Vous serez redirigé vers notre compte Play Store.\n Êtes-vous sûr ?</string>
+    <string name="files">Fichiers</string>
+    <string name="rate_us_message">Veuillez donner votre avis sur application. Nous prendrons votre point de vue au sérieux.</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="privacypolicy_Des">Vous serez redirigé vers le navigateur pour ouvrir la politique de confidentialité. Êtes-vous sûr ?</string>
+    <string name="share">Partager avec des amis</string>
+    <string name="shr">Partager</string>
+    <string name="share_des">Le lien invitation à application sera partagé avec votre ami. Merci aimer notre application. Êtes-vous sûr ?</string>
+    <string name="share_app_message">Vous serez redirigé vers notre compte Play Store.\n Êtes-vous sûr ?</string>
+
+    <string name="incoming_call_or_notifications">Appel entrant ou notifications</string>
+    <string name="flash_alert">Alerte Flash</string>
+    <string name="flashing_to_music">Clignotant au rythme de la musique</string>
+    <string name="light_up_your_party">Illuminez votre fête</string>
+    <string name="find_anything_in_dark">Trouvez nimporte quoi dans lobscurité</string>
+    <string name="continuous">Continu</string>
+    <string name="rhythm">Rythme</string>
+    <string name="screen_light">Lumière de lécran</string>
+</resources>
